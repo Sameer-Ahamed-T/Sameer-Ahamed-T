@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sameer Ahamed T</h2>
+<h2 align="center">Hi 👋! My name is Sameer Ahamed T<br>             My Interests</h2>
 
 - I'm intrested in CS
 - Currently,I know the basics of languages such as C,C++ and Python
