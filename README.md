@@ -1,9 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sameer Ahamed T<br>             My Interests</h2>
-
-- I'm intrested in CS
-- Currently,I know the basics of languages such as C,C++ and Python
-- I'm intrested to know many other Languages
-- I eager to learn new technologies 
+<h2 align="center">Hi 👋! My name is Sameer Ahamed T<br>         My interests</h2>
 
 ###
 
@@ -12,6 +7,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="left" height="140" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -32,10 +29,12 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-###
+<img src="https://raw.githubusercontent.com/Sameer-Ahamed-T/Sameer-Ahamed-T/output/snake.svg" alt="Snake animation" />
+
