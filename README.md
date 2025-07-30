@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sameer Ahamed T<br>         My interests</h2>
+<h2 align="center">Hi 👋!Myself Sameer Ahamed T<br>         My interests are in programming</h2>
 
 ###
 
@@ -16,10 +16,12 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="37" alt="cplusplus logo"  />
-  <img width="20" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="37" alt="c logo"  />
+  <img widht="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="37" alt="java logo"  />
 </div>
 
 ###
