@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋!Myself Sameer Ahamed T<br>         My interests are in programming</h2>
+<h2 align="center">Hi 👋!Myself Sameer Ahamed T<br> </h2>
 
 ###
 
