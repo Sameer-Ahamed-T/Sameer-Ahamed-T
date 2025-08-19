@@ -8,12 +8,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="140" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
   <img width="20" />
