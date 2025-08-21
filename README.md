@@ -31,9 +31,5 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram log"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sameer-Ahamed-T/Sameer-Ahamed-T/output/snake.svg" alt="Snake animation" />
 
